@@ -50,6 +50,10 @@ Query Utilizada para criar a visualização e query para inserir os dados na CRE
 
 DATA STUDIO 
 
+Foi criado uma visualização a partir dos dados da soma de crédito, agregado por dia.
+
+![image](https://user-images.githubusercontent.com/100058151/154866198-eee2f353-efee-4f36-9d1a-4edfbab6e26e.png)
+
 
 
 
