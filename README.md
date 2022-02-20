@@ -43,7 +43,7 @@ VISUALIZACAO_LANDING_TABLE
 Query Utilizada para criar a visualização e query para inserir os dados na CREDIT_PER_DAY
 
 #VIEW
-![image](https://user-images.githubusercontent.com/100058151/154860261-6cf4a368-990a-4425-8002-b6c76c915c42.png)
+![image](https://user-images.githubusercontent.com/100058151/154863616-3e23e0a6-47e5-4704-8150-26cfd2f4b273.png)
 
 #CREDIT_PER_DAY
 ![image](https://user-images.githubusercontent.com/100058151/154860306-4209c2c0-4a78-4e6e-91be-7fe4bff2ed19.png)
