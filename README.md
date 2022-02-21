@@ -36,7 +36,7 @@ TABELA LANDING_TABLE
 
 TABELA CREDIT_PER_DAY
 
-![image](https://user-images.githubusercontent.com/100058151/154860222-8a988b7e-b961-48ea-998d-5a7572857e65.png)
+![image](https://user-images.githubusercontent.com/100058151/154960260-e75c7849-48e0-4669-8b88-f434e125fed4.png)
 
 VISUALIZACAO_LANDING_TABLE 
 
