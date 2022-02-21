@@ -4,13 +4,17 @@
 Desafio:
 
 1- Desenvolver um script em python para realizar a ingestão de 50 arquivos JSON semi-estruturados de um storage da minha preferência.
+
 2- Ingerir todas  as informações do meu datalake para o meu DataWareHouse.
+
 3- Criar uma trigger com horário pré-definido para inserir os dados no DW ou realizar a criação de uma trigger que cada arquivo inserido no datalake inicie sua execução.
+
 4- A partir da tabela populada LANDING_TABLE realizar a criação de uma segunda tabela CREDIT_PER_DAY contendo informações particionadas pela data de solicitação de credito do cliente e somátoria do valor de crédito.
+
 5- Utilizando os dados da tabela CREDIT_PER_DAY criar uma visualização a partir da ferramenta de visualização da minha preferência.
 
 
-Desenho da arquitetura:
+*Desenho da arquitetura:*
 ![image](https://user-images.githubusercontent.com/100058151/154859481-feb9b2d4-c513-4e99-bd2d-effb67941ad2.png)
 
 Desenvolvimento
