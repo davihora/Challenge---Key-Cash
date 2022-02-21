@@ -14,7 +14,7 @@ Desafio:
 5- Utilizando os dados da tabela CREDIT_PER_DAY criar uma visualização a partir da ferramenta de visualização da minha preferência.
 
 
-*Desenho da arquitetura:*
+Desenho da arquitetura:
 ![image](https://user-images.githubusercontent.com/100058151/154859481-feb9b2d4-c513-4e99-bd2d-effb67941ad2.png)
 
 Desenvolvimento
