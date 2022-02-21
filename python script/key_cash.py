@@ -18,7 +18,7 @@ def readfile(file_path):
   blob = bucket.blob(file_path)
   return blob.download_as_bytes()
 
-#WRITING TO BQ
+#CREATING DATA INGESTION FUNCTION AND INSERTING SCHEMA
 def loadbq(df, event):
   client = bigquery.Client()
   table_id = "curso-data-flow.cashchallenge.LANDING_TABLE"
@@ -39,6 +39,7 @@ def loadbq(df, event):
   destination_table = client.get_table(table_id)
   print("Carregado {} linhas.".format(destination_table.num_rows))
 
+#WRITING TO BQ
 def hello_gcs(event, context):
   content = readfile(event["name"])
   json = pd.read_json(content)
