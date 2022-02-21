@@ -52,7 +52,9 @@ DATA STUDIO
 
 Foi criado uma visualização a partir dos dados da soma de crédito, agregado por dia.
 
-![image](https://user-images.githubusercontent.com/100058151/154866198-eee2f353-efee-4f36-9d1a-4edfbab6e26e.png)
+![image](https://user-images.githubusercontent.com/100058151/154871688-fed61794-6596-4fda-9acf-80807ce56271.png)
+
+LINK DE ACESSO AO DASH: https://datastudio.google.com/reporting/a6c60167-b359-4497-b230-0ccf64efd106
 
 
 
